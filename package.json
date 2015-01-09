@@ -15,6 +15,7 @@
   "bugs": {
     "url": "https://github.com/bebraw/t1000/issues"
   },
+  "main": "./index.js",
   "keywords": [],
   "licenses": [
     {
