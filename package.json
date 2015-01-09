@@ -2,11 +2,9 @@
   "name": "t1000",
   "description": "Handles termination of your server tidily",
   "author": "Juho Vepsalainen <bebraw@gmail.com>",
-  "version": "0.0.0",
-  "dependencies": {
-  },
-  "devDependencies": {
-  },
+  "version": "0.1.0",
+  "dependencies": {},
+  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "https://github.com/bebraw/t1000.git"
